@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caa840163cbed494c93d09f31e25a7ea, type: 3}
+  m_Name: TreeConfig
+  m_EditorClassIdentifier: 
+  maxLeaves: 3
+  minDepth: 3
+  maxDepth: 5
+  maxNumber: 100
+  minTargetNodes: 2
+  maxTargetNodes: 3
